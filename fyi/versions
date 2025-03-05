@@ -1,0 +1,35 @@
+File: semgrep-grammars/src/tree-sitter-toml/LICENSE
+Git repo name: tree-sitter-toml
+Latest commit in repo: 64b56832c2cffe41758f28e05c756a3a98d16f41
+Last change in file:
+  commit 5acac3958fad96ce615692b07fe484c0ab74de58
+  Author: Ika <ikatyang@gmail.com>
+  Date:   Sun Aug 18 18:30:34 2019 +0800
+  
+      feat: initial implementation
+---
+File: semgrep-grammars/src/tree-sitter-toml/grammar.js
+Git repo name: tree-sitter-toml
+Latest commit in repo: 64b56832c2cffe41758f28e05c756a3a98d16f41
+Last change in file:
+  commit ab66aa0a2f432dc079bb450e41a243410a99697b
+  Author: Amaan Qureshi <amaanq12@gmail.com>
+  Date:   Mon Dec 2 23:49:54 2024 -0500
+  
+      feat: add eslint
+---
+File: semgrep-grammars/src/semgrep-toml/grammar.js
+Git repo name: ocaml-tree-sitter-semgrep
+Latest commit in repo: 9d4a7a864526cd62bf52ca4731e37bcb0b294f5a
+Last change in file:
+  commit 9d4a7a864526cd62bf52ca4731e37bcb0b294f5a
+  Author: pad <pad@r2c.dev>
+  Date:   Wed Mar 5 13:59:01 2025 +0100
+  
+      Adding tree-sitter-toml
+      
+      This can be useful to parse certain lockfiles (e.g. uv.lock)
+      
+      test plan:
+      cd lang; ./test-lang toml
+---
