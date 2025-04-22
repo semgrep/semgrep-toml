@@ -1,6 +1,6 @@
 (executable
-  (package tree-sitter-lang)
+  (package tree-sitter-lang-pro)
   (public_name parse-toml)
   (name Main)
-  (libraries tree-sitter-lang.toml)
+  (libraries tree-sitter-lang-pro.toml)
 )
